@@ -140,7 +140,7 @@ xHeight = 1011;
 );
 glyphs = (
 {
-color = 4;
+color = 0;
 glyphname = A;
 layers = (
 {
