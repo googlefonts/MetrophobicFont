@@ -180,11 +180,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2065;
+value = 2438;
 },
 {
 name = winDescent;
-value = 545;
+value = 765;
 },
 {
 name = hheaAscender;
