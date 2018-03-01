@@ -1,5 +1,8 @@
 {
 .appVersion = "1119";
+DisplayStrings = (
+"/fl fl"
+);
 copyright = "Copyright 2011 The Metrophobic Project Authors (https://github.com/googlefonts/MetrophobicFont), with Reserved Font Name 'Metrophobic'.";
 customParameters = (
 {
@@ -14049,11 +14052,11 @@ position = "{641.5, 0}";
 );
 components = (
 {
-name = l;
+name = f;
 },
 {
-name = f;
-transform = "{1, 0, 0, 1, 513, 0}";
+name = l;
+transform = "{1, 0, 0, 1, 716, 0}";
 }
 );
 layerId = "2F8B9CD4-7B7F-4ACC-ADF3-B6E0F7033A19";
